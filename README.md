@@ -58,10 +58,10 @@ streamlit run rag_chatbot/app.py
 python rag_chatbot/chatbot.py
 
 ## Output
-![Chat UI example 1](docs/images/screencapture-localhost-8501-2026-05-19-23_19_16.png)
-![Chat UI example 2](docs/images/screencapture-localhost-8501-2026-05-19-23_20_44.png)
-![Chat UI example 3](docs/images/screencapture-localhost-8501-2026-05-19-23_21_45.png)
-![Chat UI example 4](docs/images/screencapture-localhost-8501-2026-05-19-23_22_58.png)
+![Chat UI example 1](1.png)
+![Chat UI example 2](2.png)
+![Chat UI example 3](3.png)
+![Chat UI example 4](4.png)
 
 ## Configuration
 - `top_k`: Number of chunks retrieved (higher = more context, but can add noise)
