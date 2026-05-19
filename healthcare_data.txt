@@ -1,0 +1,129 @@
+Topic: Common cold | Common cold symptoms often include a runny nose, sore throat, sneezing, cough, and mild fever; care focuses on rest, fluids, and comfort measures rather than antibiotics.
+
+Topic: Influenza | Flu symptoms can be more intense than a cold, with higher fever, body aches, and fatigue; early antiviral treatment may help high-risk patients when started promptly.
+
+Topic: Allergies | Seasonal allergies can cause sneezing, itchy eyes, and congestion; reducing exposure and using antihistamines or nasal sprays can help relieve symptoms.
+
+Topic: Sinusitis | Sinusitis may cause facial pressure, nasal congestion, and thick nasal discharge; persistent or severe symptoms may need medical evaluation.
+
+Topic: Sore throat | Most sore throats are viral and improve with fluids and rest; seek care if there is high fever, difficulty swallowing, or symptoms last longer than a week.
+
+Topic: Cough | Coughs can be caused by colds, allergies, or reflux; staying hydrated and using humidified air can help, but a cough lasting over three weeks should be evaluated.
+
+Topic: Fever | Fever is a sign of infection or inflammation; keeping hydrated and using acetaminophen or ibuprofen may reduce discomfort when appropriate.
+
+Topic: Dehydration | Signs include thirst, dark urine, dizziness, and dry mouth; treatment is oral fluids or oral rehydration solutions for mild cases.
+
+Topic: Nutrition basics | A balanced diet includes vegetables, fruits, whole grains, lean protein, and healthy fats while limiting added sugar and highly processed foods.
+
+Topic: Fiber intake | Fiber supports digestion and heart health; aim for a variety of whole grains, beans, fruits, and vegetables.
+
+Topic: Sodium reduction | High sodium intake can raise blood pressure; cooking at home and reading labels can reduce daily salt intake.
+
+Topic: Healthy fats | Unsaturated fats from nuts, seeds, and olive oil are heart friendly; limit trans fats and excessive saturated fat.
+
+Topic: Diabetes overview | Diabetes involves elevated blood sugar due to insulin issues; common symptoms include increased thirst, frequent urination, and fatigue.
+
+Topic: Diabetes diet | Managing diabetes includes carbohydrate awareness, consistent meal timing, and choosing high-fiber foods to reduce spikes in glucose.
+
+Topic: Hypoglycemia | Low blood sugar can cause shakiness, sweating, and confusion; quick-acting carbohydrates like glucose tablets can help.
+
+Topic: Hyperglycemia | High blood sugar can cause thirst and frequent urination; follow the care plan and seek help if symptoms are severe or persistent.
+
+Topic: Blood pressure | Healthy blood pressure is generally below 120/80 mmHg; lifestyle changes such as exercise, reduced sodium, and weight management help.
+
+Topic: Hypertension risks | Risk factors include obesity, high sodium diet, lack of activity, and family history; regular screening is important.
+
+Topic: Cholesterol | High LDL cholesterol increases heart risk; diet, exercise, and medications when prescribed can help control it.
+
+Topic: Heart disease | Heart disease risk factors include smoking, high blood pressure, diabetes, and inactivity; prevention focuses on lifestyle and regular care.
+
+Topic: Stroke signs | FAST is a helpful reminder: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services.
+
+Topic: Chest pain | New or severe chest pain, especially with shortness of breath or sweating, requires urgent medical evaluation.
+
+Topic: Exercise guidelines | Adults should aim for at least 150 minutes of moderate activity weekly plus muscle strengthening twice a week.
+
+Topic: Strength training | Strength training improves muscle and bone health; include major muscle groups and allow rest between sessions.
+
+Topic: Flexibility | Stretching and mobility exercises can improve posture and reduce stiffness, especially after long periods of sitting.
+
+Topic: Sleep hygiene | Keep a consistent schedule, limit caffeine late in the day, and reduce screen time before bed for better sleep.
+
+Topic: Insomnia | Persistent difficulty falling or staying asleep can affect health; cognitive-behavioral strategies are often effective.
+
+Topic: Stress management | Stress reduction techniques include breathing exercises, regular movement, and maintaining social connections.
+
+Topic: Anxiety | Anxiety can cause restlessness and racing thoughts; therapy, lifestyle changes, and medication may help when recommended.
+
+Topic: Depression | Symptoms can include low mood, loss of interest, and fatigue; seek professional help if symptoms persist.
+
+Topic: Mental health support | Reach out to trusted people or a clinician if stress or mood problems interfere with daily life.
+
+Topic: COVID-19 | COVID-19 symptoms can include fever, cough, and loss of taste or smell; follow local guidance and stay up to date with vaccines.
+
+Topic: Hand hygiene | Washing hands with soap for at least 20 seconds reduces the spread of infections.
+
+Topic: Vaccines | Adult vaccines may include annual flu shots, tetanus boosters every 10 years, and age-based vaccines like shingles.
+
+Topic: Antibiotics | Antibiotics do not treat viral infections; inappropriate use can lead to resistance and side effects.
+
+Topic: Medication safety | Keep a list of medications and follow directions; avoid mixing medicines without guidance.
+
+Topic: Pain relievers | Acetaminophen helps with pain and fever; ibuprofen also reduces inflammation but should be used carefully with certain conditions.
+
+Topic: Asthma | Asthma can cause wheezing and shortness of breath; controller and rescue inhalers are used based on severity.
+
+Topic: COPD | Chronic obstructive pulmonary disease often causes chronic cough and breathlessness; quitting smoking is key.
+
+Topic: Smoking cessation | Quitting smoking reduces heart and lung risks; counseling and nicotine replacement can improve success.
+
+Topic: Alcohol limits | Limiting alcohol reduces liver and heart risks; moderation guidelines vary by sex and health status.
+
+Topic: Weight management | Sustainable weight goals focus on balanced eating and consistent activity rather than crash diets.
+
+Topic: BMI | Body mass index is a screening tool, not a diagnosis; clinicians consider other factors like waist circumference.
+
+Topic: Pregnancy basics | Prenatal care includes folic acid, avoiding tobacco and alcohol, and regular checkups.
+
+Topic: Child nutrition | Children need balanced meals and regular snacks; offer water instead of sugary drinks.
+
+Topic: Food safety | Refrigerate perishable foods promptly and cook meats to safe temperatures to prevent illness.
+
+Topic: Gastroenteritis | Stomach viruses cause vomiting and diarrhea; focus on fluids and seek care if dehydration is severe.
+
+Topic: GERD | Acid reflux can cause heartburn; avoiding late meals and trigger foods may help.
+
+Topic: Constipation | Increase fiber, fluids, and activity; persistent constipation should be evaluated.
+
+Topic: Diarrhea | Short-term diarrhea often resolves with hydration; prolonged or bloody diarrhea needs medical evaluation.
+
+Topic: First aid cuts | Clean the wound, apply pressure to stop bleeding, and use a sterile bandage.
+
+Topic: First aid burns | Cool the burn with running water, cover loosely, and avoid ice or butter on the skin.
+
+Topic: First aid fractures | Immobilize the limb and seek medical care; avoid moving the injured area.
+
+Topic: First aid sprains | Rest, ice, compression, and elevation can reduce swelling for minor sprains.
+
+Topic: Choking | If someone cannot breathe or speak, call emergency services and use appropriate first aid techniques.
+
+Topic: Head injury | Seek urgent care for severe headache, vomiting, confusion, or loss of consciousness after head trauma.
+
+Topic: Skin health | Use sunscreen, avoid excessive sun exposure, and watch for changing moles.
+
+Topic: Hydration | Daily fluid needs vary; thirst and urine color can help guide intake.
+
+Topic: Kidney health | Managing blood pressure and diabetes helps protect kidney function.
+
+Topic: Liver health | Limiting alcohol and maintaining a healthy weight can reduce liver disease risk.
+
+Topic: Eye health | Regular eye exams and protecting eyes from UV light support long-term vision.
+
+Topic: Dental health | Brush twice daily with fluoride toothpaste and floss to prevent cavities and gum disease.
+
+Topic: Ear care | Avoid inserting objects into the ear canal; seek care for persistent pain or hearing loss.
+
+Topic: When to see a doctor | See a clinician for persistent symptoms, high fever, or worsening conditions.
+
+Topic: Emergency warning signs | Seek emergency care for chest pain, severe breathing trouble, signs of stroke, or severe bleeding.
